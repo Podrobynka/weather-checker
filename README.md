@@ -1,29 +1,29 @@
-# weather-checker
+# Weather checker
 
-## Project setup
+## Set up instructions
+
+### Go to the folder where you want to store this project, and clone the repository
+
 ```
-npm install
+git clone https://github.com/Podrobynka/weather-checker.git
+```
+
+### Install packages
+```
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+yarn run build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
