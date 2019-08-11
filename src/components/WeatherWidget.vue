@@ -27,7 +27,7 @@
 import { sendGet } from '../lib/api_client.js'
 
 export default {
-  name: 'HelloWorld',
+  name: 'WeatherWidget',
   data: function () {
     return {
       city: '',
