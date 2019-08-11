@@ -14,7 +14,7 @@ module.exports = {
       'anonymous': 'always',
       'named': 'never',
       'asyncArrow': 'always'
-    }],
+    }]
   },
   parserOptions: {
     parser: 'babel-eslint'
